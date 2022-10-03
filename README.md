@@ -1,6 +1,6 @@
 👋🏽 Hi, my name is Soumalya
 
-🎓 Soon to be grad with a Bachelor's of Engineering in Computer Engineering. (Aug 2022)
+🎓 A grad with a Bachelor's of Engineering in Computer Engineering. (Aug 2022)
 
 🌇 West Bengal(India) Native, with a passion for creating content and developing strategies that will grow your business
 
