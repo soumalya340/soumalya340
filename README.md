@@ -13,11 +13,11 @@
 💪🏽 *Blockchain developer,Python,C with Flutter
 
 
-- 👋 Hi, I’m @soumalya340
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Soumalya
+- 👀 I’m interested in  Blockchain
+- 🌱 I’m currently learning Smart Contract Auditing
+- 💞️ I’m looking to collaborate on DEFI,DAO AND GAME Fi
+- 📫 How to reach me soumalyapaul04@gmail.com
 
 <!---
 soumalya340/soumalya340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
