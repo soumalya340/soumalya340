@@ -95,7 +95,7 @@ When I'm not crafting smart contracts, you can find me:
 - **Email**: [soumalyapaul04@gmail.com](mailto:soumalyapaul04@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/soumalya-paul04](https://linkedin.com/in/soumalya-paul04)  
 - **GitHub**: [github.com/soumalya340](https://github.com/soumalya340)  
-- **X**: [Follow me for blockchain insights!](https://twitter.com/soumalyapaul19) *(Add your X handle if applicable)*  
+- **X**: [Follow me for blockchain insights!](https://twitter.com/soumalyapaul19)  
 
 Ready to collaborate on **DeFi, DAOs, or GameFi**? Drop me a line, and let’s make Web3 magic happen! ✨
 
